@@ -19,6 +19,7 @@
 		<Item Name="Layer3 Data Source" Type="Folder" URL="../Layer3 Data Source">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Beer monitor menu.rtm" Type="Document" URL="../../../../../Downloads/Beer monitor3.llb/Beer monitor menu.rtm"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
